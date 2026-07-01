@@ -7,9 +7,9 @@ __sdk_version__ = ">=1.4.3.3"
 __author__ = "@ayugram_easter"
 __icon__ = "AllTheMemes/0"
 __description__ = """
-🇬🇧**EN:** The plugin protects against opening AyuGram Easter eggs (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster)
+🇬🇧**EN:** The plugin protects against opening AyuGram Easter eggs (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster, tg://xiaomi, tg://nya)
 /
-🇷🇺**RU:** Плагин защищает от открытия пасхалок AyuGram (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster)
+🇷🇺**RU:** Плагин защищает от открытия пасхалок AyuGram (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster, tg:/Xiaomi, tg://nya)
 """
 
 import traceback
