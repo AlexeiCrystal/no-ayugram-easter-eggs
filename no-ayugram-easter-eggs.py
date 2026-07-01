@@ -9,7 +9,7 @@ __icon__ = "AllTheMemes/0"
 __description__ = """
 🇬🇧**EN:** The plugin protects against opening AyuGram Easter eggs (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster, tg://xiaomi, tg://nya)
 /
-🇷🇺**RU:** Плагин защищает от открытия пасхалок AyuGram (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster, tg:/Xiaomi, tg://nya)
+🇷🇺**RU:** Плагин защищает от открытия пасхалок AyuGram (tg://ayu/... train, xiaomi, relax, augh, pipe, saul, komaru, lobster, tg:/xiaomi, tg://nya)
 """
 
 import traceback
